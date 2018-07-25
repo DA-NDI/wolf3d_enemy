@@ -3,4 +3,4 @@ Educational project at 42 school, UnitFactory, Kyiv. C, graphical library SDL. W
 
 ## Have fun!
 
-![alt text](https://github.com/DA-NDI/wolf3d_enemy/blob/master/wolf1.mov)
+![alt text](https://github.com/DA-NDI/wolf3d_enemy/blob/master/wolf1.gif)
